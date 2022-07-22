@@ -29,6 +29,7 @@ part 2 - redirect it from a subdirectory
 
 
 note: The "Setup Node.js App" button is provided by the CloudLinux Node.js Selector. It is only available on CloudLinux servers. contact your hosting provider for more.
+
 note: in order to kill the process, need to access via terminal
 - `ps aux | grep server.js` will list all the process
 - `kill -9 PIDNUMBER` to kill a process, replace the *PIDNUMBER* accordingly
