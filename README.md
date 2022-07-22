@@ -3,6 +3,7 @@
 Install node app in a sub directory in cpanel
 
 part 1 - setup nodejs app
+
 part 2 - redirect it from a subdirectory
 
 # set up NodeJS app
