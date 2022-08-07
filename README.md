@@ -33,3 +33,19 @@ note: The "Setup Node.js App" button is provided by the CloudLinux Node.js Selec
 note: in order to kill the process, need to access via terminal
 - `ps aux | grep server.js` will list all the process
 - `kill -9 PIDNUMBER` to kill a process, replace the *PIDNUMBER* accordingly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+watch YouTube video here https://youtu.be/D-aoD1D3O_Q
